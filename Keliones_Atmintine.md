@@ -115,6 +115,7 @@
 ### Sausio 27 d. (Antradienis) - Į Krabi (Railay)
 *   🏨 **12:00** Išsiregistravimas.
 *   🚌⛴️ Kelionė į Railay (Krabi).
+    *   **Bilietai:** [Užsakyti keltą čia (Phuket Town - Railay)](https://www.aonangtravel.co.th/ferry_ticket/en/111/Ferry+TicketPhuket+Town-Railay)
 *   🏨 **14:00** Įsiregistravimas: **Railay Princess Resort & Spa**.
 
 ### Sausio 30 d. (Penktadienis) - Į Ao Nang
