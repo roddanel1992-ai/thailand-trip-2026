@@ -7,7 +7,7 @@
 ## 📅 Apžvalga
 *   **Kelionės laikotarpis:** 2026 m. sausio 23 d. – vasario 13 d. (21 diena)
 *   **Kryptys:** Puketas (Phuket), Krabi, Bankokas (Bangkok)
-*   **Keliautojai:** Danel ir šeima
+*   **Keliautojai:** Danel, Eglutė ir Leonukas
 
 ---
 

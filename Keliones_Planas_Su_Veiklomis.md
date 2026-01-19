@@ -1,4 +1,4 @@
-# 🌴 Detalus Kelionės Planas su Veiklomis (Danel ir Šeima)
+# 🌴 Detalus Kelionės Planas su Veiklomis (Danel, Eglutės ir Leonuko)
 
 Šis planas sukurtas orientuojantis į "lėtą keliavimą" (slow travel) su 1 m. 4 mėn. vaiku. Pagrindinis prioritetas – vaiko režimas (pietų miegas), vengiant perkrovimo, ir patogumas.
 
@@ -64,31 +64,64 @@
     *   *Svarbu:* Takas turi laiptelių, su vežimėliu nepravažiuosite (reikės nešioklės). Beždžionės ten laisvos – nerekomenduojama neštis jokio maisto matomoje vietoje, nes jos gali būti įžūlios. Vaiką laikyti arti.
 *   **Vakaras:** *Ao Nang Landmark Night Market* – galima paragauti maisto, nusipirkti vaisių. Yra erdvės pasivaikščioti.
 
-### Vasario 1 d. (Sekmadienis) – Persikraustymas į kitą viešbutį
-*   Ramus persikraustymas į *Heaven View Krabi*.
+### Vasario 1 d. (Sekmadienis) – Persikraustymas į Ao Nam Mao
+*   **Diena:** Ramus persikraustymas į *Heaven View Krabi* (Ao Nam Mao rajonas, ramesnis nei Ao Nang).
+*   **Popietė:** Baseinas ir viešbučio teritorija.
 
 ### Vasario 2 d. (Pirmadienis) – Dramblių Prieglauda (Elephant Sanctuary)
 *   **Rytas:** **Aonang Elephant Sanctuary** (arba kita etiška prieglauda, pvz., *Krabi Elephant House Sanctuary*).
     *   *Svarbu:* Rinkitės programą "No Riding" (jodinėti negalima).
-    *   *Su vaiku:* 1.4 m. vaikui patiks žiūrėti į dramblius, galbūt paliesti (su jūsų pagalba) ar duoti bananą. Rinkitės trumpesnę programą (pusdienio, apie 2-3 val.), kad vaikas nepavargtų. Dauguma prieglaudų paima iš viešbučio ryte.
+    *   *Su vaiku:* 1.4 m. vaikui patiks žiūrėti į dramblius, galbūt paliesti (su jūsų pagalba) ar duoti bananą. Rinkitės trumpesnę programą (pusdienio, apie 2-3 val.), kad vaikas nepavargtų.
 *   **Diena:** Grįžimas pietų miegui.
 
-### Vasario 3-4 d. – Poilsis / Laisvas laikas
-*   Mėgaukitės viešbučiu, baseinu. Galima nuvažiuoti į *Krabi Town* (turgus, krantinė), bet Ao Nang su vaiku dažniausiai patogiau.
+### Vasario 3 d. (Antradienis) – Shell Cemetery (Susan Hoi)
+*   **Vieta:** Netoli Ao Nam Mao yra **Shell Cemetery** (suakmenėjusių kriauklių kapinės).
+    *   *Veikla:* Tai rami vieta pasivaikščiojimui, yra takeliai, tinka su vaiku. Galima nusipirkti suvenyrų.
+*   **Popietė:** Galima pasivaikščioti Ao Nam Mao prieplaukoje, stebėti laivelius.
+
+### Vasario 4 d. (Trečiadienis) – Emerald Pool (Smaragdinis Baseinas)
+*   **Rytas:** Išvyka į **Emerald Pool (Sa Morakot)**.
+    *   *Rekomendacija:* Geriausia samdyti privatų taksi (apie 1.5 val kelio). Išvykti anksti ryte (apie 8-9 val), kad išvengtumėte minios.
+    *   *Pastaba:* Takeliai gali būti slidūs – atsargiai su vaiku. Vanduo šiltas ir malonus maudytis, bet gylis įvairus – būtina priežiūra / plūduriavimo priemonės vaikui.
+*   **Diena:** Grįžimas į viešbutį pietų miegui. Kelionė atgal puikiai tinka vaikui pamiegoti automobilyje.
 
 ### Vasario 5 d. (Ketvirtadienis) – Persikraustymas į Frank Resort
-*   Viešbučio keitimas.
+*   **Ryte:** Išsiregistravimas iš Heaven View.
+*   **Pakeliui:** Galima užsukti pietų į *Mountain View Restaurant* (gražūs vaizdai) arba tiesiai į naują viešbutį.
+*   **Popiet:** Įsikūrimas *Frank Ao Nang Krabi Resort*. Baseinas.
 
 ### Vasario 6 d. (Penktadienis) – Ko Hong Salos (Optional)
 *   **Rytas:** Išvyka į **Ko Hong** salas.
     *   *Rekomendacija:* Nuomokitės **privačią longtail valtį** (kaina apie 2500-3500 THB visai valtį).
-    *   *Kodėl privačią?* Galėsite išplaukti kada norite (pvz., 9:00), būti saloje kiek norite, ir jei vaikas pavargs/suirz – iškart plaukti atgal. Su grupine ekskursija būtumėte pririšti visai dienai.
-    *   *Ką pamatysite:* Hong Lagoon (labai gražu, uždara lagūna), Hong Beach (galima maudytis, yra pavėsis).
-*   **Diena:** Grįžimas apie 13:00–14:00 vaiko miegui.
+    *   *Kodėl privačią?* Laisvė grįžti bet kada.
+    *   *Ką pamatysite:* Hong Lagoon (labai gražu), Hong Beach (galima maudytis). Maudytis geriausia Hong paplūdimio įlankoje – ten ramu.
+*   **Vakaras:** Poilsis.
 
-### Vasario 7-11 d. – Poilsis ir paskutinės dienos Krabi
-*   Laikas mėgautis šiluma.
-*   Galima aplankyti *Catfish Farm* (netoli Ao Nang) – gražūs sodai, galima pašerti žuvis, pasivaikščioti. Labai ramu ir tinka vaikams.
+### Vasario 7 d. (Šeštadienis) – Krabi Town Night Market
+*   **Diena:** Laisvas laikas, poilsis.
+*   **Vakaras (nuo 17:00):** Išvyka į **Krabi Town Walking Street (Weekend Night Market)**.
+    *   *Veikla:* Tai didžiausias ir geriausias turgus Krabi. Daug maisto, suvenyrų, gyva muzika.
+    *   *Patarimas:* Atvažiuokite anksčiau (apie 17:30), kol dar ne taip daug žmonių, kad būtų lengviau vaikščioti su vaiku.
+
+### Vasario 8 d. (Sekmadienis) – Persikraustymas į Krabi Maritime
+*   **Vieta:** *Krabi Maritime Resort* yra šiek tiek toliau nuo jūros, bet turi didelę gražią teritoriją, tvenkinius.
+*   **Vakaras:** Jei patiko šeštadienio turgus, jis vyksta ir sekmadienį – galima pakartoti. Arba vakarienė viešbutyje prie upės.
+
+### Vasario 9 d. (Pirmadienis) – Klong Root (Skaidraus vandens kanalas)
+*   **Rytas:** Išvyka į **Klong Root (Clear Water Canal)**.
+    *   *Veikla:* **Baidarės (Kayaking)**. Tai labai rami vieta, vanduo skaidrus ir negilus, nėra bangų.
+    *   *Su vaiku:* Labai tinka – jūs irkluojate, vaikas sėdi viduryje su liemene. Galima stebėti žuvytes po vandeniu.
+*   **Diena:** Pietūs vietinėje kavinukėje šalia ir grįžimas miegui.
+
+### Vasario 10 d. (Antradienis) – Tiger Cave Temple (Ground Level)
+*   **Rytas:** **Tiger Cave Temple (Wat Tham Suea)**.
+    *   *Svarbu:* Nereikia lipti 1260 laiptelių į viršūnė su vaiku!
+    *   *Ką veikti:* Tyrinėkite **"Wonderland"** taką džiunglėse (žemutiniame lygyje). Ten yra didžiuliai medžiai, urvai, labai gražu ir tinka pasivaikščiojimui su vežimėliu/nešiokle.
+    *   *Įspėjimas:* Saugokitės beždžionių – jos čia gali būti įžūlios. Slėpkite maistą ir akinius.
+
+### Vasario 11 d. (Trečiadienis) – Paskutinė diena
+*   **Veikla:** "Pool Day". Mėgaukitės viešbučio baseinu, ramiai pakuokitės daiktus.
+*   **Vakaras:** Šventinė vakarienė viešbučio restorane.
 
 ---
 
@@ -97,7 +130,7 @@
 
 ### Vasario 12 d. (Ketvirtadienis) – Skrydis į Bankoką
 *   Atvykimas, įsikūrimas viešbutyje *PAAK Hotel Suvarnabhumi*.
-*   Kadangi viešbutis netoli oro uosto (toliau nuo centro), šią dieną skirkite ramiam poilsiui prieš kelionę namo. Jei labai norite į centrą – tai užtruks (apie 45-60 min su taksi viena kryptimi), su mažu vaiku prieš skrydį galbūt neverta vargti.
+*   Poilsis prieš kelionę namo.
 
 ### Vasario 13 d. (Penktadienis) – Skrydis namo
 *   Laimingos kelionės!
