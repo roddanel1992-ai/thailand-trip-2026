@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="lt">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kelionės Planas su Veiklomis</title>
+    <style>
+        :root {
+            --primary-color: #2e7d32;
+            --accent-color: #4caf50;
+            --bg-color: #f1f8e9;
+            --card-bg: #ffffff;
+            --text-color: #333;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: var(--text-color);
+            background-color: var(--bg-color);
+            margin: 0;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: var(--card-bg);
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            color: var(--primary-color);
+            text-align: center;
+            font-size: 1.8rem;
+            margin-bottom: 10px;
+        }
+
+        h2 {
+            color: var(--primary-color);
+            border-bottom: 2px solid var(--accent-color);
+            padding-bottom: 5px;
+            margin-top: 30px;
+            font-size: 1.4rem;
+        }
+
+        h3 {
+            color: #455a64;
+            margin-bottom: 5px;
+            font-size: 1.1rem;
+            color: var(--primary-color);
+        }
+
+        p,
+        li {
+            font-size: 16px;
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+        .tips {
+            background-color: #fff9c4;
+            border-left: 5px solid #fbc02d;
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+
+        .day-block {
+            margin-bottom: 25px;
+            border-bottom: 1px dashed #ccc;
+            padding-bottom: 15px;
+        }
+
+        .day-block:last-child {
+            border-bottom: none;
+        }
+
+        .highlight {
+            font-weight: bold;
+            color: #d84315;
+        }
+
+        @media (max-width: 600px) {
+            body {
+                padding: 10px;
+            }
+
+            .container {
+                padding: 15px;
+            }
+
+            h1 {
+                font-size: 1.5rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>🌴 Detalus Kelionės Planas su Veiklomis</h1>
+        <p style="text-align: center;"><em>Danel ir šeima</em></p>
+
+        <div class="tips">
+            <h3>👶 Patarimai Keliaujant su Mažyliu</h3>
+            <ul>
+                <li><strong>Transportas:</strong> Naudokite <em>Grab</em> trumpiems atstumams, privačias valtis saloms.
+                </li>
+                <li><strong>Maistas:</strong> <em>7-Eleven</em> turi pieno, jogurtų, sauskelnių.</li>
+                <li><strong>Režimas:</strong> 11:00–15:00 val. – geriausias laikas pietų miegui viešbutyje.</li>
+                <li><strong>Vanduo:</strong> Tik iš butelių (net dantų valymui).</li>
+            </ul>
+        </div>
+
+        <h2>📅 Dalis 1: Puketas (Phuket)</h2>
+        <div class="day-block">
+            <h3>Sausio 24 d. (Šeštadienis) – Atvykimas</h3>
+            <p>Poilsis, aklimatizacija, vakarienė viešbučio teritorijoje.</p>
+        </div>
+        <div class="day-block">
+            <h3>Sausio 25 d. (Sekmadienis) – Poilsis</h3>
+            <p>Pusryčiai, baseinas, pietų miegas. Vakare galima aplankyti <em>Phuket Old Town</em>.</p>
+        </div>
+        <div class="day-block">
+            <h3>Sausio 26 d. (Pirmadienis) – <span class="highlight">Phuket Aquarium</span></h3>
+            <p>Rytinis vizitas į akvariumą Cape Panwa (netoli viešbučio). Puiku mažyliams!</p>
+        </div>
+
+        <h2>📅 Dalis 2: Krabi – Railay</h2>
+        <div class="day-block">
+            <h3>Sausio 27 d. (Antradienis) – Į Railay</h3>
+            <p>Atvykimas laivu. Saulėlydis Railay West paplūdimyje.</p>
+        </div>
+        <div class="day-block">
+            <h3>Sausio 28 d. (Trečiadienis) – Phra Nang</h3>
+            <p>Pasivaikščiojimas iki Phra Nang Cave Beach. Smėlio žaidimai.</p>
+        </div>
+        <div class="day-block">
+            <h3>Sausio 29 d. (Ketvirtadienis) – Laisva diena</h3>
+            <p>Baseinas, paplūdimys, poilsis.</p>
+        </div>
+
+        <h2>📅 Dalis 3: Krabi – Ao Nang</h2>
+        <div class="day-block">
+            <h3>Sausio 30 d. (Penktadienis) – Į Ao Nang</h3>
+            <p>Persikėlimas, pasivaikščiojimas promenada.</p>
+        </div>
+        <div class="day-block">
+            <h3>Sausio 31 d. (Šeštadienis) – Monkey Trail</h3>
+            <p>Galima eiti į Monkey Trail (su nešiokle). Vakare – naktinis turgus.</p>
+        </div>
+        <div class="day-block">
+            <h3>Vasario 2 d. (Pirmadienis) – <span class="highlight">Dramblių Prieglauda</span></h3>
+            <p>Rytinė ekskursija į <em>Aonang Elephant Sanctuary</em> (be jodinėjimo). Maitinimas, stebėjimas.</p>
+        </div>
+        <div class="day-block">
+            <h3>Vasario 6 d. (Penktadienis) – <span class="highlight">Ko Hong Salos</span></h3>
+            <p>Pasirenkama išvyka su <strong>privačia longtail valtimi</strong>. Hong Lagoon ir paplūdimys.</p>
+        </div>
+        <div class="day-block">
+            <h3>Vasario 7-11 d. – Poilsis</h3>
+            <p>Laisvas laikas, Catfish Farm, baseinas.</p>
+        </div>
+
+        <h2>📅 Dalis 4: Bankokas</h2>
+        <div class="day-block">
+            <h3>Vasario 12 d. (Ketvirtadienis)</h3>
+            <p>Skrydis į Bankoką. Nakvynė šalia oro uosto.</p>
+        </div>
+        <div class="day-block">
+            <h3>Vasario 13 d. (Penktadienis)</h3>
+            <p>Skrydis namo. Geros kelionės! ✈️</p>
+        </div>
+    </div>
+</body>
+
+</html>
