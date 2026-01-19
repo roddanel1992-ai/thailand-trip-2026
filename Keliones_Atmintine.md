@@ -80,6 +80,22 @@
 
 ---
 
+## 🚗 Transporto Nuoma
+
+### Automobilio Nuoma (Rekomenduojama su vaiku)
+*   **Kodėl verta:** Saugiausia ir patogiausia su mažu vaiku (kondicionierius, daiktai po ranka).
+*   **Kėdutės:** Būtina užsisakyti iš anksto. Tarptautinės kompanijos (Hertz, Sixt, Avis) turi standartines, bet specializuotos vietinės (pvz., *Phuket Wheels*, *Krabi Green Day*) dažnai siūlo geresnes sąlygas šeimoms.
+*   **Dokumentai:** Reikalingas **Tarptautinis Vairuotojo Pažymėjimas (IDP)**.
+
+### Motorolerio Nuoma
+*   **Svarbu:** Su 1.4 m. vaiku **nerekomenduojama** dėl saugumo (didėlis eismo įvykių skaičius). Jei visgi nuspręsite:
+*   **Dokumentai:** Privaloma turėti **A kategorijos** teises ir IDP. Be jų – baudos ir negaliojantis draudimas.
+*   **Saugumas:** Visada dėvėkite šalmus.
+*   **Nuoma:** Niekada nepalikite paso kaip užstato (palikite užstatą grynais arba kopiją).
+*   **Kaina:** ~200-350 THB/dienai.
+
+---
+
 ## 🗓️ Detalus Dienos Planas
 
 ### Sausio 23 d. (Penktadienis) - Kelionės pradžia
