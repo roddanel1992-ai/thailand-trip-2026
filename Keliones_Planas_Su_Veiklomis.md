@@ -107,21 +107,22 @@
 *   **Vieta:** *Krabi Maritime Resort* yra šiek tiek toliau nuo jūros, bet turi didelę gražią teritoriją, tvenkinius.
 *   **Vakaras:** Jei patiko šeštadienio turgus, jis vyksta ir sekmadienį – galima pakartoti. Arba vakarienė viešbutyje prie upės.
 
-### Vasario 9 d. (Pirmadienis) – Klong Root (Skaidraus vandens kanalas)
-*   **Rytas:** Išvyka į **Klong Root (Clear Water Canal)**.
-    *   *Veikla:* **Baidarės (Kayaking)**. Tai labai rami vieta, vanduo skaidrus ir negilus, nėra bangų.
-    *   *Su vaiku:* Labai tinka – jūs irkluojate, vaikas sėdi viduryje su liemene. Galima stebėti žuvytes po vandeniu.
-*   **Diena:** Pietūs vietinėje kavinukėje šalia ir grįžimas miegui.
+### Vasario 9 d. (Pirmadienis) – Klong Root ir Din Daeng Doi
+*   **Rytas:** **Klong Root (Clear Water Canal)**.
+    *   *Veikla:* **Baidarės (Kayaking)**. Tai labai rami vieta, vanduo skaidrus ir negilus, tinka su vaiku centre.
+*   **Diena:** Pietų miegas.
+*   **Vakaras:** **Din Daeng Doi Viewpoint**.
+    *   *Kodėl čia:* Įspūdinga panorama į kalnus. Į viršų veža pikapas (shuttle) – nereikia vargti kopiant. Viršuje yra kavinukė. Puiku saulėlydžiui.
 
 ### Vasario 10 d. (Antradienis) – Tiger Cave Temple (Ground Level)
 *   **Rytas:** **Tiger Cave Temple (Wat Tham Suea)**.
-    *   *Svarbu:* Nereikia lipti 1260 laiptelių į viršūnė su vaiku!
-    *   *Ką veikti:* Tyrinėkite **"Wonderland"** taką džiunglėse (žemutiniame lygyje). Ten yra didžiuliai medžiai, urvai, labai gražu ir tinka pasivaikščiojimui su vežimėliu/nešiokle.
-    *   *Įspėjimas:* Saugokitės beždžionių – jos čia gali būti įžūlios. Slėpkite maistą ir akinius.
+    *   *Svarbu:* Nereikia lipti į viršūnę! Tyrinėkite **"Wonderland"** taką džiunglėse (žemutiniame lygyje).
+    *   *Įspėjimas:* Saugokitės beždžionių.
 
-### Vasario 11 d. (Trečiadienis) – Paskutinė diena
-*   **Veikla:** "Pool Day". Mėgaukitės viešbučio baseinu, ramiai pakuokitės daiktus.
-*   **Vakaras:** Šventinė vakarienė viešbučio restorane.
+### Vasario 11 d. (Trečiadienis) – Ožiukų ferma ir Baseinas
+*   **Rytas:** **Ao Nang Goat Farm**.
+    *   *Veikla:* Jaukus ūkis mažyliams. Galima pamaitinti ožiukus pienu ir žole.
+*   **Diena:** Paskutinis pasiplaukiojimas baseine, daiktų pakavimas, ramus vakaras.
 
 ---
 
